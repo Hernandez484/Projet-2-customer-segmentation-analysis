@@ -52,3 +52,7 @@ The Power BI dashboard includes:
 * Purchase frequency is a strong indicator of customer value.
 
 * Targeted marketing strategies can significantly improve campaign efficiency.
+
+Dashboard interactivo 👉 https://app.powerbi.com/links/jYIK4fwQlM?ctid=99e1e721-7184-498e-8aff-b2ad4e53c1c2&pbi_source=linkShare
+
+Notion 👉 https://great-edam-5a0.notion.site/Customer-Behavior-Segmentation-Analysis-2e19b437544f80c8aecfea7a25417c86?source=copy_link
